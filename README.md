@@ -1,6 +1,6 @@
 # JavaScript Recurrent Addresses Scanner
 
-This JavaScript project scans Ethereum token transactions for recurrent addresses. It retrieves token transactions from the Ethereum blockchain using the Etherscan API and identifies addresses that appear more than once in the transactions.
+This JavaScript project scans Ethereum token transactions for recurrent addresses. It retrieves token transactions from the Ethereum blockchain using the Etherscan API and identifies addresses that appear more than once in the transactions. I made this tool to help me track profitable sniping bot addresses.
 
 ## Prerequisites
 
